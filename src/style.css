@@ -1,0 +1,44 @@
+:root {
+  background-color: #101820ff;
+  display: flex;
+  justify-content: center;
+  color: #fee715ff;
+}
+
+/*Info component*/
+
+.info-container {
+  margin-top: 3rem;
+
+  text-align: left;
+}
+
+.main-title {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.moto-title {
+  font-size: 1.25rem;
+}
+
+hr {
+  height: 5px;
+  background-color: #fee715ff;
+  border: 0;
+}
+
+/*Select component*/
+select {
+  color: #fee715ff;
+  background-color: transparent;
+}
+
+select option {
+  background: #101820ff;
+}
+
+/*Display list component*/
+.displayList-container {
+  text-align: left;
+}
